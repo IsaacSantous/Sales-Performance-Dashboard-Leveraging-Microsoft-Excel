@@ -16,11 +16,11 @@ To compete in today’s market, business owners must understand the performance 
 I used the following functions during the data cleaning process: Trim function, Substitute function, Remove duplicates, Proper, Upper and Lower function.
 ## Key Insights
 -	Between the period of January 2015 to July 2016
-   - 34,866 transactions were made
-   - 69,820 products were sold
-   - Over $20 million was used in cost
-   - Over $22 million in revenue generated
-   - Approximately $2.2 million profit was made 
+  ##### - 34,866 transactions were made
+  ##### - 69,820 products were sold
+  ##### - Over $20 million was used in cost
+  ##### - Over $22 million in revenue generated
+  ##### - Approximately $2.2 million profit was made 
 -	Lagos is where the highest total cost, revenue and profit was observed.
 -	Among the three payment options, the online payment option experienced a loss from January to June 2015, while most of the profit came from cash payment.
 -	Overall, more profit was made from male customers and adult customers.
