@@ -1,3 +1,5 @@
+![image](https://github.com/user-attachments/assets/372ca31a-8c3b-4df9-ad52-323c3513e855)
+
 ## Business Understanding
 Becks & Sons business is a reputable dealer of high-quality phones, clothing and accessories. Becks & Sons has been in the industry for half a decade, but business has not been going as expected considering its presence across major cities in the country. Becks & Sons is seeking the expertise of a data professional to provide insights into the trends of major indicators.
 ## Problem Statement
@@ -14,11 +16,11 @@ To compete in today’s market, business owners must understand the performance 
 I used the following functions during the data cleaning process: Trim function, Substitute function, Remove duplicates, Proper, Upper and Lower function.
 ## Key Insights
 -	Between the period of January 2015 to July 2016
-   o	34,866 transactions were made
-   o	69,820 products were sold
-   o	Over $20 million was used in cost
-   o	Over $22 million in revenue generated
-   o	Approximately $2.2 million profit was made 
+   - 34,866 transactions were made
+   - 69,820 products were sold
+   - Over $20 million was used in cost
+   - Over $22 million in revenue generated
+   - Approximately $2.2 million profit was made 
 -	Lagos is where the highest total cost, revenue and profit was observed.
 -	Among the three payment options, the online payment option experienced a loss from January to June 2015, while most of the profit came from cash payment.
 -	Overall, more profit was made from male customers and adult customers.
